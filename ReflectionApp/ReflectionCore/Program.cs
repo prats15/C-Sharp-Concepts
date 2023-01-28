@@ -14,6 +14,7 @@ namespace ReflectionCore
         [STAThread]
         static void Main()
         {
+			//added comments for git practice
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
