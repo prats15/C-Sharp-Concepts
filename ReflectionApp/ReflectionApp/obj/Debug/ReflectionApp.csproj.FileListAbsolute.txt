@@ -1,0 +1,9 @@
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe.config
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.pdb
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.AssemblyReference.cache
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.Properties.Resources.resources
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.GenerateResource.cache
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.exe
+C:\Users\P872680\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.pdb
