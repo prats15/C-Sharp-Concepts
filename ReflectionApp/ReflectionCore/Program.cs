@@ -14,7 +14,7 @@ namespace ReflectionCore
         [STAThread]
         static void Main()
         {
-			//added comments for git practice
+			//added comments for git practice (for feature2 branch)
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
