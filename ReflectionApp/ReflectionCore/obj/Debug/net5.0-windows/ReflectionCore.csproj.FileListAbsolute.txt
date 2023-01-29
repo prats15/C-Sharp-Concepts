@@ -16,3 +16,21 @@ C:\Users\P872680\source\repos\ReflectionApp\ReflectionCore\obj\Debug\net5.0-wind
 C:\Users\P872680\source\repos\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ref\ReflectionCore.dll
 C:\Users\P872680\source\repos\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.pdb
 C:\Users\P872680\source\repos\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.genruntimeconfig.cache
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ReflectionCore.exe
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ReflectionCore.deps.json
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ReflectionCore.runtimeconfig.json
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ReflectionCore.runtimeconfig.dev.json
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ReflectionCore.dll
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ref\ReflectionCore.dll
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\bin\Debug\net5.0-windows\ReflectionCore.pdb
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.csproj.AssemblyReference.cache
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.Form1.resources
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.csproj.GenerateResource.cache
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.AssemblyInfoInputs.cache
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.AssemblyInfo.cs
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.csproj.CoreCompileInputs.cache
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.dll
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ref\ReflectionCore.dll
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.pdb
+C:\Users\P872680\Desktop\New folder\ReflectionApp\ReflectionCore\obj\Debug\net5.0-windows\ReflectionCore.genruntimeconfig.cache

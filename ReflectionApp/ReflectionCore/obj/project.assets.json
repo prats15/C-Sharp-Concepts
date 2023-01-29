@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P872680\\source\\repos\\ReflectionApp\\ReflectionCore\\ReflectionCore.csproj",
+      "projectUniqueName": "C:\\Users\\P872680\\Desktop\\New folder\\ReflectionApp\\ReflectionCore\\ReflectionCore.csproj",
       "projectName": "ReflectionCore",
-      "projectPath": "C:\\Users\\P872680\\source\\repos\\ReflectionApp\\ReflectionCore\\ReflectionCore.csproj",
+      "projectPath": "C:\\Users\\P872680\\Desktop\\New folder\\ReflectionApp\\ReflectionCore\\ReflectionCore.csproj",
       "packagesPath": "C:\\Users\\P872680\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P872680\\source\\repos\\ReflectionApp\\ReflectionCore\\obj\\",
+      "outputPath": "C:\\Users\\P872680\\Desktop\\New folder\\ReflectionApp\\ReflectionCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
